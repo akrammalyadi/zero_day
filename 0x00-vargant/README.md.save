@@ -1,0 +1,10 @@
+s directory contains the answer to the question regarding the output of the `uname` command without any options on an Ubuntu VM.
+
+## Answer
+
+When the `uname` command is run without any options on an Ubuntu VM, it prints the kernel name of the operating system.
+
+To find the kernel name, simply SSH into your Ubuntu VM and run the following command:
+
+```bash
+uname#0x00-vagrant
